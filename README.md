@@ -29,4 +29,3 @@ When initializing an instance, no need to pass any parameters. However, when `fi
 This class is used to implement perceptron and Logistic classifier. It is also  inherited from `ParseTextData`. 
 
 When initializing the class, we need to pass a param to tell if we want to train a perceptron or a logistic classifier. Two param values are allowed: Perceptron or Logistic. For the Perceptron classifier, labels are coded as $+1$ and $-1$ ,but labels are coded as $+1$ and $0$ for the Logistic regression.  
-# Image Compression
